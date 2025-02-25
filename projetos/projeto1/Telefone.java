@@ -1,3 +1,4 @@
+package projetos.projeto1;
 class telefone {
     String modelo;
     String numero;
