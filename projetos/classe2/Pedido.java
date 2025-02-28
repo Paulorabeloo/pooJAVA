@@ -1,4 +1,4 @@
-package projetos.projeto2;
+package projetos.classe2;
 
 public class Pedido {
     private int mesa;

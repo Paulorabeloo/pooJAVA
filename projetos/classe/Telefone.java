@@ -1,4 +1,4 @@
-package projetos.projeto1;
+package projetos.classe;
 class telefone {
     String modelo;
     String numero;
